@@ -1,0 +1,10 @@
+{
+  "name": "BerkasSiap",
+  "short_name": "BerkasSiap",
+  "description": "Checklist dokumen, tenggat, dan penyimpanan berkas di perangkatmu.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ef",
+  "theme_color": "#f56a3d",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
